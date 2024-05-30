@@ -1,5 +1,7 @@
 # movierental
-Projekt realizowny w ramach przedmiotu Podstawy Programowania
+
+Projekt realizowny w ramach przedmiotu Podstawy Programowania.
+
 Spełniającego funkcjonalność wypożyczalni filmów w trybie konsolowym
 Program zawiera Dodawanie,usuwanie,edycje klientów (numer karty, imię, nazwisko, telefon, Email). Dodawanie,usuwanie,edycja filmów (ID, tytuł, rok, reżyser, gatunek, liczba egzemplarzy, liczba
 wypożyczonych). Wypożyczanie,oddawanie filmów (kto wypożyczył (numer karty), który film (ID),
